@@ -56,3 +56,22 @@ https://github.com/newbee-ltd/newbee-mall-vue3-app
 https://github.com/xjh22222228/vue-authorized
 
 https://github.com/lhz960904/movie-trailer
+
+
+https://huzhushan.gitee.io/vue3-element-admin/
+
+https://gitee.com/lyt-top/vue-next-admin/tree/master
+
+https://github.com/HalseySpicy/Geeker-Admin
+
+https://github.com/un-pany/v3-admin-vite
+
+https://github.com/buqiyuan
+
+https://github.com/buqiyuan/vite-vue3-admin
+
+https://vvbin.cn/doc-next/
+
+https://hu-snail.github.io/vue3-resource/
+
+https://gitee.com/newbee-ltd
